@@ -1,0 +1,22 @@
+{
+  "lang": "en",
+  "short_name": "nefely",
+  "name": "nefely",
+  "start_url": "https://nefely.github.io/",
+  "background_color": "#3b3b3b",
+  "theme_color": "#3b3b3b",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "img/logo_192_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/logo_512_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
